@@ -12,7 +12,7 @@
 
 ### Featured Projects
 - 🌱 Seedling Survival Prediction using Machine Learning
--📊 Power BI Sales & Profit Dashboard – Superstore Dataset
+- 📊 Power BI Sales & Profit Dashboard – Superstore Dataset
 - 📊 Sales Optimization through Statistical Analysis
 - 📈 Walmart Stock Price Analysis using Markov Chain
 
