@@ -13,6 +13,8 @@
 - 🌱 Seedling Survival Prediction using Machine Learning
 - 📈 Walmart Stock Analysis using a 2-State Markov Chain
 - 📊 Sales Optimization through Statistical Analysis
+- 📈 Walmart Stock Price Analysis using Markov Chain
 
 💡 Passionate about turning data into actionable insights and solving real-world problems using analytics.
+
 📫 Connect with me:www.linkedin.com/in/tanmayee-avutapalli-676a71279
