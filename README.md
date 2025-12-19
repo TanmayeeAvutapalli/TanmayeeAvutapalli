@@ -8,6 +8,7 @@
 - Power BI, Excel
 - Data Preprocessing & EDA
 - Statistical Modeling, ML Basics
+- Data cleaning,Data Understanding 
 
 ### Featured Projects
 - 🌱 Seedling Survival Prediction using Machine Learning
