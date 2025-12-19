@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Sree Tanmayee 👋
 
-<!--
-**TanmayeeAvutapalli/TanmayeeAvutapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Statistics student at Pondicherry University  
+📊 Aspiring Data Analyst & Data Scientist  
 
-Here are some ideas to get you started:
+### Skills & Tools
+- Python, R, SQL
+- Power BI, Excel
+- Data Preprocessing & EDA
+- Statistical Modeling, ML Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- 🌱 Seedling Survival Prediction using Machine Learning
+- 📈 Walmart Stock Analysis using a 2-State Markov Chain
+- 📊 Sales Optimization through Statistical Analysis
+
+💡 Passionate about turning data into actionable insights and solving real-world problems using analytics.
+📫 Connect with me:www.linkedin.com/in/tanmayee-avutapalli-676a71279
